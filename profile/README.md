@@ -1,4 +1,4 @@
-# Visual Uppsala Workflow System
+# Visual Uppsala Workflow System (ViUWS)
 
 <!--
 
